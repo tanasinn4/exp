@@ -1,0 +1,93 @@
+﻿2013/11/18 11:04:51 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\y.tanaka\Documents\Visual Studio 2010\Projects\Experiment_adjastableLuminance\Experiment_adjastableLuminance\Experiment_adjastableLuminance.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\Experiment_adjustableLuminance.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Experiment_adjustableLuminance.cpp
+         Experiment_adjustableLuminance.cpp
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(77): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(77): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(77): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(98): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(98): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(109): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(109): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(109): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(113): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(113): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(115): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(115): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(117): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(117): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(119): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(119): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(121): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(121): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(126): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(126): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(128): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(128): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(130): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(130): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(132): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(132): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(136): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(139): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(139): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(141): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(141): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(143): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(143): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(145): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(145): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(147): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(147): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(149): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(149): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(151): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(151): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(153): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(153): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(155): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(155): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(157): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(157): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(159): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(159): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(161): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(161): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(163): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(163): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(165): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(165): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(318): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl(86) : 'ctime' の宣言を確認してください。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(403): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(403): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(403): warning C4244: '引数' : 'double' から 'GLclampf' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(550): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(550): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(551): warning C4244: '引数' : 'const double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\y.tanaka\documents\visual studio 2010\projects\experiment_adjastableluminance\experiment_adjastableluminance\experiment_adjustableluminance.cpp(551): warning C4244: '引数' : 'const double' から 'int' への変換です。データが失われる可能性があります。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\y.tanaka\Documents\Visual Studio 2010\Projects\Experiment_adjastableLuminance\Debug\Experiment_adjustableLuminance.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Experiment_adjustableLuminance.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\y.tanaka\Documents\Visual Studio 2010\Projects\Experiment_adjastableLuminance\Debug\Experiment_adjustableLuminance.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\y.tanaka\Documents\Visual Studio 2010\Projects\Experiment_adjastableLuminance\Debug\Experiment_adjustableLuminance.lib" /MACHINE:X86 Debug\Experiment_adjustableLuminance.exe.embed.manifest.res
+         Debug\Experiment_adjustableLuminance.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Experiment_adjustableLuminance.exe.embed.manifest" /manifest Debug\Experiment_adjustableLuminance.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         Experiment_adjastableLuminance.vcxproj -> C:\Users\y.tanaka\Documents\Visual Studio 2010\Projects\Experiment_adjastableLuminance\Debug\Experiment_adjustableLuminance.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\Experiment_adjustableLuminance.unsuccessfulbuild" を削除しています。
+         "Debug\Experiment_adjustableLuminance.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\y.tanaka\Documents\Visual Studio 2010\Projects\Experiment_adjastableLuminance\Experiment_adjastableLuminance\Experiment_adjastableLuminance.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:09.40
